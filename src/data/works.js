@@ -5,7 +5,7 @@ const works = [
         date: "2023-10-10",
         description:
             "Evaluación de la aplicación móvil de la biblioteca universitaria",
-        pdfUrl: "/files/demo001.pdf",
+        pdfUrl: "/api/pdf?file=demo001.pdf",
         subject: "HCI",
     },
 ]

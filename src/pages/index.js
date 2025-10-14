@@ -1,6 +1,8 @@
+import { useState, useEffect } from "react"
 import { motion } from "framer-motion"
 import Hero from "@/components/page/Hero"
 import WorkCard from "@/components/page/WorkCard"
+import Password from "@/components/page/Password"
 import works from "@/data/works"
 
 const containerAnimation = {
@@ -15,6 +17,21 @@ const containerAnimation = {
 }
 
 export default function Home() {
+  const [isAuthenticated, setIsAuthenticated] = useState(false)
+
+  useEffect(() => {
+    const auth = localStorage.getItem("isAuthenticated")
+    setIsAuthenticated(auth === "true")
+  }, [])
+
+  const handleAuthentication = () => {
+    setIsAuthenticated(true)
+  }
+
+  if (!isAuthenticated) {
+    return <Password onSuccess={handleAuthentication} />
+  }
+
   return (
     <div className="relative min-h-screen overflow-hidden">
       {/* Fondo gradiente modo claro */}
@@ -39,8 +56,11 @@ export default function Home() {
           backgroundAttachment: "fixed",
         }}
       />
+
+      {/* Benner Principal */}
       <Hero worksCount={works.length} />
 
+      {/* Sección de Trabajos */}
       <main className="container mx-auto px-4 py-8">
         <motion.div
           className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 max-w-7xl mx-auto"

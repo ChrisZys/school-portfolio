@@ -22,9 +22,7 @@ export const PdfViewerDialog = ({
       })
     : ""
 
-  const pdfViewerUrl = `${pdfUrl}${
-    pdfUrl.includes("?") ? "&" : "?"
-  }#toolbar=0&navpanes=0&scrollbar=0`
+  const pdfViewerUrl = pdfUrl
 
   return (
     <Dialog open={isOpen} onOpenChange={onOpenChange}>
