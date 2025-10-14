@@ -2,7 +2,7 @@
 
 Un portafolio web académico donde se presentan los trabajos realizados en las materias de **HCI** y **Redes II**.
 
-📂 Los documentos se encuentran en la carpeta [`public/files`](./public/files).
+📂 Los documentos se encuentran en la carpeta [`src/data/files`](./src/data/files).
 
 ## ⚙️ Tecnologías utilizadas
 
@@ -13,3 +13,9 @@ Un portafolio web académico donde se presentan los trabajos realizados en las m
   <img src="https://img.shields.io/badge/Magic UI-8B5CF6?style=for-the-badge&logo=magicui&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
+
+## 🌐 Enlace al sitio
+
+Aunque puede ver los documentos desde este repositorio, igual puede verlos desde el sitio web, ingresando la contraseña: **G5T8Q2**
+
+[Visitar sitio web](https://tusitio.com)
