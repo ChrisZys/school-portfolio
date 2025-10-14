@@ -1,11 +1,11 @@
 const works = [
     {
         id: 1,
-        title: "Análisis de Usabilidad",
-        date: "2023-10-10",
+        title: "Historia y Fundamentos del HCI",
+        date: "2025-10-13",
         description:
-            "Evaluación de la aplicación móvil de la biblioteca universitaria",
-        pdfUrl: "/api/pdf?file=demo001.pdf",
+            "Tarea 1",
+        pdfUrl: "/api/pdf?file=Tarea1.pdf",
         subject: "HCI",
     },
 ]
