@@ -13,8 +13,17 @@ const works = [
         title: "Protocolos de la Capa de Transporte",
         date: "2025-10-16",
         description:
-            "Descripción de protocolos",
+            "Descripción de protocolos de la capa de transporte",
         pdfUrl: "/api/pdf?file=ProtocolosDeLaCapaDeTransporte.pdf",
+        subject: "Redes II",
+    },
+    {
+        id: 3,
+        title: "Protocolos de la Capa de Aplicación",
+        date: "2025-10-20",
+        description:
+            "Descripción de protocolos de la capa de aplicación",
+        pdfUrl: "/api/pdf?file=ProtocolosDeLaCapaDeAplicación.pdf",
         subject: "Redes II",
     },
 ]
