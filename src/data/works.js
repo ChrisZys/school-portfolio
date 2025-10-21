@@ -23,7 +23,7 @@ const works = [
         date: "2025-10-20",
         description:
             "Descripción de protocolos de la capa de aplicación",
-        pdfUrl: "/api/pdf?file=ProtocolosDeLaCapaDeAplicación.pdf",
+        pdfUrl: "/api/pdf?file=ProtocolosDeLaCapaDeAplicacion.pdf",
         subject: "Redes II",
     },
 ]
