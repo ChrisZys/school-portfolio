@@ -26,6 +26,15 @@ const works = [
         pdfUrl: "/api/pdf?file=ProtocolosDeLaCapaDeAplicacion.pdf",
         subject: "Redes II",
     },
+    {
+        id: 4,
+        title: "Monitoreo y escaneo de vulnerabilidades con las herramientas nmap y wireshark",
+        date: "2025-11-17",
+        description:
+            "Descripción de protocolos de la capa de aplicación",
+        pdfUrl: "/api/pdf?file=MonitoreoNmapWireshark.pdf",
+        subject: "Redes II",
+    },
 ]
 
 export default works

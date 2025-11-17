@@ -4,6 +4,26 @@ Un portafolio web académico donde se presentan los trabajos realizados en las m
 
 📂 Los documentos se encuentran en la carpeta [`src/data/files`](./src/data/files).
 
+## 📚 Tareas
+
+### 🛜 Redes
+
+#### 1er Parcial
+
+**Protocolos de la capa de transporte:** [ProtocolosDeLaCapaDeTransporte.pdf](./src/data/files/protocolos-de-la-capa-de-transporte.pdf)
+
+**Protocolos de la capa de aplicación:** [ProtocolosDeLaCapaDeAplicacion.pdf](./src/data/files/protocolos-de-la-capa-de-aplicacion.pdf)
+
+#### 2do Parcial
+
+**Monitoreo y escaneo de vulnerabilidades con las herramientas nmap y wireshark:** [MonitoreoNmapWireshark.pdf](./src/data/files/monitoreo-nmap-wireshark.pdf)
+
+### 🎨 HCI
+
+#### 1er Parcial
+
+**Historia y Fundamentos del HCI:** [Tarea1.pdf](./src/data/files/tarea1.pdf)
+
 ## ⚙️ Tecnologías utilizadas
 
 <p align="center">
