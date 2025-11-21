@@ -24,6 +24,10 @@ Un portafolio web académico donde se presentan los trabajos realizados en las m
 
 **Historia y Fundamentos del HCI:** [Tarea1.pdf](./src/data/files/tarea1.pdf)
 
+#### 2do Parcial
+
+**Principios de diseño:** [PrincipiosDeDiseño.pdf](./src/data/files/PrincipiosDeDiseño.pdf)
+
 ## ⚙️ Tecnologías utilizadas
 
 <p align="center">

@@ -35,6 +35,15 @@ const works = [
         pdfUrl: "/api/pdf?file=MonitoreoNmapWireshark.pdf",
         subject: "Redes II",
     },
+    {
+        id: 5,
+        title: "Principios de diseño",
+        date: "2025-11-21",
+        description:
+            "Descripción de principios de diseño",
+        pdfUrl: "/api/pdf?file=PrincipiosDeDiseño.pdf",
+        subject: "HCI",
+    }
 ]
 
 export default works
