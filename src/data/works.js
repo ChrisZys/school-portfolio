@@ -43,7 +43,16 @@ const works = [
             "Descripción de principios de diseño",
         pdfUrl: "/api/pdf?file=PrincipiosDeDiseño.pdf",
         subject: "HCI",
-    }
+    },
+    {
+        id: 6,
+        title: "Tecnologías NFC, Bluetooth, WiFi y WiMAX: Seguridad en Redes Inalámbricas, Vulnerabilidades Conocidas y Capas de Protección",
+        date: "2025-11-27",
+        description:
+            "Descripción de redes inalámbricas, vulnerabilidades conocidas y capas de protección",
+        pdfUrl: "/api/pdf?file=Tecnologias_NFC_Bluetooth_WiFi_WiMAX_Seguridad_Vulnerabilidades.pdf",
+        subject: "Redes II",
+    },
 ]
 
 export default works
