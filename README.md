@@ -18,6 +18,8 @@ Un portafolio web académico donde se presentan los trabajos realizados en las m
 
 **Monitoreo y escaneo de vulnerabilidades con las herramientas nmap y wireshark:** [MonitoreoNmapWireshark.pdf](./src/data/files/monitoreo-nmap-wireshark.pdf)
 
+**Tecnologías NFC, Bluetooth, WiFi y WiMAX: Seguridad en Redes Inalámbricas, Vulnerabilidades Conocidas y Capas de Protección:** [Tecnologias_NFC_Bluetooth_WiFi_WiMAX_Seguridad_Vulnerabilidades.pdf](./src/data/files/Tecnologias_NFC_Bluetooth_WiFi_WiMAX_Seguridad_Vulnerabilidades.pdf)
+
 ### 🎨 HCI
 
 #### 1er Parcial
